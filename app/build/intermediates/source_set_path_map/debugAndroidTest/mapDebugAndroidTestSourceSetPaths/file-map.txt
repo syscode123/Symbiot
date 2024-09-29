@@ -1,0 +1,5 @@
+com.example.symbiot.test.app-core-1.6.1-0 /home/avishay/.gradle/caches/transforms-4/f48dc856d38f8ed334b9f056bcba0d63/transformed/core-1.6.1/res
+com.example.symbiot.test.app-androidTest-1 /home/avishay/projects/Symbiot/app/build/generated/res/resValues/androidTest/debug
+com.example.symbiot.test.app-mergeDebugAndroidTestResources-2 /home/avishay/projects/Symbiot/app/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/merged.dir
+com.example.symbiot.test.app-mergeDebugAndroidTestResources-3 /home/avishay/projects/Symbiot/app/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/stripped.dir
+com.example.symbiot.test.app-debugAndroidTest-4 /home/avishay/projects/Symbiot/app/build/intermediates/merged_res/debugAndroidTest/mergeDebugAndroidTestResources
